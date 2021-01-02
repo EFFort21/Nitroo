@@ -4,8 +4,8 @@ Nitroo générateur les proxy sont générer automatiquement vous avex juste bes
 
 1. cd (fichier du code)
 2. npm init
-3.npm i
-4.npm i discord.js
-5.node .
+3. npm i
+4. npm i discord.js
+5. node .
 
 6. amusez vous
